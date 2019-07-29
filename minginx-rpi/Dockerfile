@@ -2,11 +2,13 @@
 # minginx - Minimalist nginx image
 # Raspberry Pi version
 #
-# The image created with this Dockerfile serves development in the
-# Raspberry Valley makerspace
+# The image created with this Dockerfile serves development in the Raspberry Valley makerspace
 #
-# Raspberry Valley Makerspace site: https://raspberry-valley.azurewebsites.net
-#
+# Raspberry Valley is a makerspace in Sweden, Karlskrona. You can visit our sites and check what's developing: 
+# * Knowledge base: https://raspberry-valley.azurewebsites.net
+# * Github pages: https://github.com/raspberryvalley
+# * Docker hub: hub.docker.com/r/raspberryvalley/
+# * Follow on Twitter: https://twitter.com/RaspberryValley
 
 FROM resin/armhf-alpine:3.6
 
